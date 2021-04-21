@@ -3,7 +3,7 @@ name: Claim Free Games
 on: # When to run this workflow
     push: # When you edit this repo
 
-# Uncomment the below lines to enable manual trigger.
+# Uncomment the below lines to enable manual trigger..
 
     watch:
         types: [started] # When repo owner stars this repo
